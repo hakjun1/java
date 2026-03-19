@@ -11,7 +11,7 @@ public class SpeakerMain {
         speaker.volumeUp();
         speaker.showVolume();
 
-        //사용하는입장에서 volume필드에 직접 접근 가능
+        //필드에 직접 접근 밖에서 Speaker필드에 직접 접근가능
         System.out.println("volume 필드 직접 접근 수정");
 //        speaker.volume = 200;
         speaker.showVolume();
