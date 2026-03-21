@@ -1,7 +1,7 @@
 package memory;
 
 
-public class JavaMemoryMain1 {
+public class JavaMemoryMain1 {//스택구조 main이 젤먼저실행 하지만 젤먼저 끝남
     public static void main(String[] args) {
 
         System.out.println("main start");
