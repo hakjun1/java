@@ -15,7 +15,7 @@ public class Child extends Parent {
         //defaultValue()
         //privateValue()
 
-        printParent();// 자기자신꺼니까 다된다. 그리고 public
+        printParent();
 
 
 
